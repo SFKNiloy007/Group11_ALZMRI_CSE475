@@ -11,15 +11,7 @@
 - `related_work/`: related work table and source papers in `papers/`
 - `models/`: trained model checkpoints and label map
 
-## How to run
-
-To be added when the notebooks and their data/dependency requirements are uploaded.
-
 ## Results
 
 To be added as each task is completed.
-
-## File naming
-
-Once the group number is known, name every file `Group11_AlzheimerMRI_<description>`, replacing `NN` with the group number.
 
