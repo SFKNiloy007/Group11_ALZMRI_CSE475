@@ -2,7 +2,7 @@
 
 - **Group:** 11
 - **Dataset:** Alzheimer MRI (`ALZMRI`)
-- **Track:** To be added
+- **Track:** Track 2 — Graph Convolutional Network (image → graph)
 
 ## Repository layout
 
